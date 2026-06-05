@@ -2,6 +2,8 @@
 
 # 🥶 Python-Foundations 🚀
 
+# 😜 CEO @ Founder HMSoftTecH Innovation
+
 Python-Foundations is a comprehensive repository designed to help learners build a strong foundation in Python programming. It covers the core concepts, syntax, and problem-solving techniques that are essential for beginners, while also including intermediate-level exercises to prepare learners for real-world projects and technical interviews.
 
 ✨ Key Features
